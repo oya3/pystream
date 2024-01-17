@@ -67,10 +67,10 @@ $ python client.py 127.0.0.1 9901 test
 
 # 参考URL
 
-- PythonでTCP通信(サーバ編)
+- PythonでTCP通信(サーバ編)  
   https://qiita.com/keiusukematsuda/items/aacded313fdb6c08f410
-- PythonでTCP通信(クライアント編)
+- PythonでTCP通信(クライアント編)  
   https://qiita.com/keiusukematsuda/items/362450fda4beca76c030
-- ArgumentParserの使い方を簡単にまとめた
+- ArgumentParserの使い方を簡単にまとめた  
   https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0
 
