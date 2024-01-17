@@ -3,7 +3,7 @@
 - windows10 git-bash 環境でpyenvが動作する環境  
 - 詳細は以下を参照すること  
   python で tcp 接続(server/client)でメッセージ送受信する  
-  https://blog.oya3.net/posts/2024/01/16/python-stream/#exe-%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88
+  https://blog.oya3.net/posts/2024/01/16/python-stream/
 
 # 実行手順
 
@@ -54,6 +54,7 @@ $ pip install -r requirements.txt
 ``` bash
 $ python server.py
 $ python server.py -c server.yaml
+$ python server.py --config server.yaml
 ```
 
 ### client 起動  
